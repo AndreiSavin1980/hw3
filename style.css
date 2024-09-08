@@ -12,3 +12,12 @@ img {
   display: block;
   max-width: 100%;
 }
+
+p {
+  color: #888888;
+  width: 466px ;
+  height: 48px;
+  top: -10px;
+  left: 2011px;
+}
+
