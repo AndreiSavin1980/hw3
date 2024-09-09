@@ -21,3 +21,33 @@ p {
   left: 2011px;
 }
 
+.container {
+  max-width: 1146px;
+  margin: 0 auto;
+}
+
+.header {
+  width: 1170px;
+  left: -566px;
+}
+
+.navigation {}
+.navigation a {}
+
+.main {
+  width: 1920px;
+  height: 700px;
+  top: -407;
+  left: -941;
+}
+.mainContent {}
+.mainContent__leftside {}
+.mainContent__leftside-btnList
+
+.footer {
+  width: 1920px;
+  height: 243px;
+  top: 293px;
+  left: -941px;
+}
+
