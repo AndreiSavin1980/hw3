@@ -32,7 +32,9 @@ p {
 }
 
 .navigation {}
-.navigation a {}
+.navigation a {
+  font-size: 16px;
+}
 
 .main {
   width: 1920px;
