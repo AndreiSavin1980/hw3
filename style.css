@@ -37,17 +37,18 @@ p {
 }
 
 .main {
-  width: 1920px;
+  width: 1170px;
   height: 700px;
   top: -407;
   left: -941;
+  margin-bottom: 197px;
 }
 .mainContent {}
 .mainContent__leftside {}
 .mainContent__leftside-btnList
 
 .footer {
-  width: 1920px;
+  width: 1170px;
   height: 243px;
   top: 293px;
   left: -941px;
